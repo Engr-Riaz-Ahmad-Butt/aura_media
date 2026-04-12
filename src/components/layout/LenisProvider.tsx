@@ -1,6 +1,6 @@
 'use client'
 
-import { ReactLenis, useLenis } from '@studio-freight/react-lenis'
+import { ReactLenis, useLenis } from 'lenis/react'
 import { ReactNode, useEffect } from 'react'
 import { initGSAP, ScrollTrigger } from '@/lib/gsap'
 
