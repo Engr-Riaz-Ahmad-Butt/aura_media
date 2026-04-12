@@ -10,6 +10,7 @@ import { cn } from '@/lib/utils'
 type TestimonialItem = CardStackItem & {
   role: string
   avatar: string
+  imageSrc: string
 }
 
 const testimonials: TestimonialItem[] = [
